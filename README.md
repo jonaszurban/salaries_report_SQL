@@ -7,4 +7,4 @@ There are 6 tables in the database: employees, salaries, departments, titles, de
 
 The employees table contains personal information about employees, the salaries table contains information about salaries, the dept_emp table shows in which department the employee works in and the departments table shows information about these departments. In the database, there are also title and dept_manager tables, but they are not used in this project. 
 
-The repository also includes a simple diagram of the base on which the project is made. File with schema of database is called 'schema.svg'.
+The repository also includes a simple diagram of the base on which the project is made. File with schema of database is called 'schema.jpg'.
