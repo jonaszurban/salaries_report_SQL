@@ -1,4 +1,4 @@
-# raport_placowy_SQL
+# employees_salaries_report
 The goal of this project is to learn how to build SQL queries with MySQL and use this knowledge to create payment reports based on an available employee database. The project is based on the "employee" database, which is a public database of (untrue) employees data such as personal details, duration of employment, department where they work and salaries. The "payment_report" project has been divided into four separate parts, in which we perform various tasks to finally give an effect in the form of query results ready for analysis.
 
 The data comes from the "employee" database, which can be downloaded here: https://relational.fit.cvut.cz/dataset/Employee.
